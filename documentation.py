@@ -56,6 +56,6 @@ Verify the information in the CSV files by reading them back using Pandas.
 
 #STEP 5:
 '''
-Document and share your work!
+Document your work!
 '''
 
